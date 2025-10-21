@@ -6,3 +6,5 @@ https://www.youtube.com/watch?v=k2QEElQ9eeM&list=PLPTV0NXA_ZSijcbUrRZHm6BrdinLue
 
 Complete d value function of RL
 completed step value function
+
+Completed dynamic RL
